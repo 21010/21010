@@ -30,7 +30,7 @@ My goal is to leverage technology—from Python and cloud platforms to the lates
 
 | Project | Description | Technologies |
 |---|---|---|
-| **[rpa-dates | https://github.com/user/rpa-dates | A Python library to simplify and accelerate dates operations. | `Python`, `API` |
+| **[rpa-dates](https://github.com/user/rpa-dates)** | A Python library to simplify and accelerate dates operations. | `Python`, `API` |
 | **[rpa-sap](https://github.com/user/rpa-sap)** | A Python library to simplify and accelerate SAP GUI automation, used to streamline data entry processes. | `Python`, `pywin32` |
 | **[AI Order Automation POC](https://github.com/user/order-poc)** | Proof-of-concept for an AI agent that classifies incoming customer emails (new order, complaint) and extracts order details into a structured JSON format. | `Python`, `Instructor`, `Pydantic` |
 | **[Energy Consumption Forecaster](https://github.com/user/energy-forecast)** | A machine learning model to predict energy consumption based on production plans, helping to optimize energy storage usage. | `Python`, `scikit-learn`, `Pandas` |
