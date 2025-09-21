@@ -1,32 +1,32 @@
-### 👋 Hi there, I'm Grzegorz!
+### Hi there, I'm Grzegorz!
 
-I'm a technology leader and hands-on engineer passionate about building intelligent automation solutions that deliver real business value. With a strong background in **Process Automation (RPA)** and **Lean Management**, I'm now diving deep into the world of **Artificial Intelligence** and **Machine Learning Engineering**.
+I'm a technology leader and hands-on engineer passionate about building intelligent automation solutions that deliver real business value. With a strong background in **Process Automation (RPA)** and **Process Optimization**, I'm now diving deep into the world of **Artificial Intelligence** and **Machine Learning Engineering**.
 
 My goal is to leverage technology—from Python and cloud platforms to the latest in Generative AI—to solve complex problems and build efficient, scalable systems.
 
 ---
 
-#### 🔭 I’m currently working on:
+#### I’m currently working on:
 - Mastering practical AI applications with a focus on **LLMs, Agentic AI, and RAG patterns**.
 - Completing my postgraduate studies in **AI & Machine Learning Engineering** to deepen my theoretical and engineering foundation.
 - Expanding my open-source RPA utility libraries.
 
-#### 🌱 I’m currently learning:
+#### I’m currently learning:
 - Advanced MLOps practices (Docker, Kubernetes).
 - Deep Learning frameworks like PyTorch.
 - Cloud architecture patterns for AI solutions.
 
-#### 🛠️ My Tech Stack
+#### My Tech Stack
 
 - **Languages:** Python (Expert), SQL (Advanced), JavaScript (Intermediate)
-- **AI & Automation:** LangChain, PyTorch/TensorFlow, RPA (Automation Anywhere, UiPath, Power Automate), Selenium
-- **Data & BI:** Pandas, Power BI, SAP Analytics Cloud
+- **AI & Automation:** LangChain, PyTorch/TensorFlow, RPA (Automation Anywhere, UiPath, Power Automate), RPA Framework 
+- **Data & BI:** Numpy & Pandas, Power BI, SAP Analytics Cloud
 - **Cloud & DevOps:** Git, Azure DevOps, Docker & Kubernetes (Learning)
 - **Frameworks & Standards:** Lean Management, AgilePM, Scrum, BPMN
 
 ---
 
-#### 🚀 My Flagship Projects
+#### My Flagship Projects
 
 | Project | Description | Technologies |
 |---|---|---|
@@ -36,6 +36,6 @@ My goal is to leverage technology—from Python and cloud platforms to the lates
 
 ---
 
-#### 📫 How to reach me:
+#### How to reach me:
 - **LinkedIn:** [linkedin.com/in/ziolo](https://linkedin.com/in/ziolo)
 - **Email:** [grzegorz.ziolo@gmail.com](mailto:grzegorz.ziolo@gmail.com)
