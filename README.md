@@ -1,45 +1,61 @@
 ### Hi there, I'm Grzegorz!
 
-I'm a technology leader and hands-on engineer passionate about building intelligent automation solutions that deliver real business value.
-With a strong background in **Process Automation (RPA)** and **Process Optimization**, I'm now diving deep into the world of **Artificial Intelligence** and **Machine Learning Engineering**.
+> **Seasoned Automation Architect & Python Developer. Evolving from Enterprise RPA to Intelligent, AI-Powered Systems.**
 
-My goal is to leverage technology—from Python and cloud platforms to the latest in Generative AI—to solve complex problems and build efficient, scalable systems.
+With a foundation of over 6 years in building and scaling enterprise-grade automation solutions, my core focus is now on architecting and developing the next generation of intelligent systems. 
+I leverage my deep expertise in process optimization (Lean) and corporate systems (RPA, SAP) to build pragmatic, high-impact solutions. 
+My primary interests lie in NLP for data extraction, leveraging **LLMs** to create autonomous agents, and **predictive modeling** for process optimization.
 
----
+### My Tech Stack & Tools
 
-#### I’m currently working on:
-- Mastering practical AI applications with a focus on **LLMs, Agentic AI, and RAG patterns**.
-- Completing my postgraduate studies in **AI & Machine Learning Engineering** to deepen my theoretical and engineering foundation.
-- Expanding my open-source RPA utility libraries.
-- Developing AI-based solutions.
+| Category | Technology / Skill | Proficiency |
+| :--- | :--- | :--- |
+| **Languages & Data** | Python | Expert |
+| | SQL | Advanced |
+| | Pydantic | Proficient |
+| | JavaScript / HTML / CSS | Proficient |
+| **AI: Frameworks & Libraries** | LangChain / Instructor | Proficient |
+| | OpenAI API / Anthropic API | Proficient |
+| | PyTorch / TensorFlow | Foundational *(via SGGW Studies)* |
+| | Scikit-learn | Foundational *(via SGGW Studies)* |
+| **AI: Concepts & Techniques**| LLM App Development | Proficient |
+| | Prompt Engineering | Proficient |
+| | RAG (Retrieval-Augmented Generation) | Proficient |
+| | Computer Vision (OpenCV) | Foundational *(via SGGW Studies)* |
+| **Automation & RPA** | Python-based Automation | Expert |
+| | Automation Anywhere | Expert |
+| | UiPath | Proficient |
+| | Robocorp (RPA Framework) | Proficient |
+| | Power Platform (Power Automate, Power | Proficient |
+| | Selenium / Playwright | Proficient |
+| **Development & DevOps**| Git / GitHub | Proficient |
+| | REST APIs | Proficient |
+| | Azure DevOps / Jira | Proficient |
+| | Docker / Kubernetes | Foundational *(via SGGW Studies)* |
+| **Process & Project Mgmt.**| Lean Management (Green Belt) | Expert |
+| | AgilePM / Scrum | Proficient |
+| | BPMN | Proficient |
 
-#### I’m currently learning:
-- Advanced MLOps practices (Docker, Kubernetes).
-- Deep Learning frameworks like PyTorch.
-- Cloud architecture patterns for AI solutions.
-
-#### My Tech Stack
-
-- **Languages:** Python (Expert), SQL (Advanced), JavaScript (Intermediate), HTML, CSS
-- **AI & Automation:** LangChain, PyTorch/TensorFlow, RPA (Automation Anywhere, UiPath, Power Automate), RPA Framework
-- **Data & BI:** Numpy, Pandas, Power BI
-- **Cloud & DevOps:** Git, Azure DevOps, Docker & Kubernetes (Learning)
-- **Frameworks & Standards:** Lean Management, AgilePM, Scrum, BPMN
-
----
-
-#### My Flagship Projects
+### My Flagship Projects
 
 | Project | Description | Technologies |
 | :------ | :---------- | :----------- |
 | **[rpa-dates](https://github.com/21010/rpa-dates)** | A Python library to simplify and accelerate date operations. | `Python`, `API` |
-| **[rpa-sap](https://github.com/21010/rpa-sap)** | A Python library to simplify and accelerate SAP GUI automation, used to streamline data entry processes. | `Python`, `pywin32` |
-| **[rpa-automationanywhere](https://github.com/21010/rpa-automationanywhere)** | Automation Anywhere 360 API integration to automate administration and deployment operations. | `Python`, `REST API` |
-| **AI Order Automation POC** | Proof-of-concept for an AI agent that classifies incoming customer emails (new order, complaint) and extracts order details into a structured JSON format. | `Python`, `Instructor`, `Pydantic` |
-| **Energy Consumption Forecaster** | A machine learning model to predict energy consumption based on production plans and the machine's specification, helping to optimise BESS usage. | `Python`, `scikit-learn`, `Pandas` |
-| **Photo duplicates detection** | A computer vision project to streamline complaint analyses and detect duplicates in attached documentation (photos) | `Python`, `OpenCV` |
+| **[rpa-sap](https://github.com/21010/rpa-sap)** | A Python library to simplify and accelerate SAP GUI automation. | `Python`, `pywin32` |
+| **[rpa-automationanywhere](https://github.com/21010/rpa-automationanywhere)** | AA360 API integration to automate administration and deployment. | `Python`, `REST API` |
+| **AI Order Automation POC** | An AI agent that classifies customer emails and extracts order details into a structured JSON format. | `Python`, `Instructor`, `Pydantic` |
+| **Energy Consumption Forecaster** | An ML model to predict energy consumption and optimise BESS usage. | `Python`, `scikit-learn`, `Pandas` |
+| **Photo Duplicates Detection** | A computer vision project to detect duplicates in complaint documentation. | `Python`, `OpenCV` |
 
----
+### My Learning Roadmap & Current Focus
 
-#### How to reach me:
-- **LinkedIn:** [linkedin.com/in/ziolo](https://linkedin.com/in/ziolo)
+I am a lifelong learner, constantly evolving my skill set. Below is my development plan, focused on achieving mastery in building enterprise-grade, intelligent automation systems.
+
+| Status | Focus Area | Key Topics / Courses | Timeline |
+| :--- | :--- | :--- | :--- |
+| **Completed** | **Practical Agentic AI** | **AI_devs 3 Agents** (Foundation in LLMs & building AI Agents) | Oct 2024 - Jan 2025 |
+| **In Progress** | **Postgraduate Studies** | **AI & ML Engineering** @ SGGW (Deep Dive into PyTorch, MLOps, Docker/Kubernetes) | Oct 2025 - Jun 2026 |
+| **In Progress** | **Practical LLM Application** | **"Praktyczny LLM" Course** @ DataWorkshop (Mastering RAG, Agentic AI, Function Calling) | Sep 2025 - Oct 2025 |
+| **Active** | **Open-Source Contribution**| Expanding Python utility libraries for the RPA community (e.g., `rpa-sap`) | Ongoing |
+| **Up Next** | **Cloud Computing** | **AWS/Azure Core Services** (EC2, S3, Lambda/Functions), **AI/ML Platforms** (SageMaker/Azure ML) | Q3-Q4 2026 |
+| **Up Next**| **Advanced MLOps** | **CI/CD for ML**, **Orchestration** (Airflow/Kubeflow), **Model Monitoring** | Q1 2027 |
