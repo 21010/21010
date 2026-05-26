@@ -6,36 +6,6 @@ With a foundation of over 6 years in building and scaling enterprise-grade autom
 I leverage my deep expertise in process optimisation (Lean) and corporate systems (RPA, SAP) to build pragmatic, high-impact solutions. 
 My primary interests lie in NLP for data extraction, leveraging **LLMs** to create autonomous agents, and **predictive modelling** for process optimisation.
 
-### My Tech Stack & Tools
-
-| Category                       | Technology / Skill                    | Proficiency  |
-| :----------------------------- | :------------------------------------ | :----------- |
-| **Languages & Data**           | Python                                | Expert       |
-|                                | SQL                                   | Advanced     |
-|                                | Pydantic                              | Proficient   |
-|                                | JavaScript / HTML / CSS               | Proficient   |
-| **AI: Frameworks & Libraries** | Instructor                            | Learning     |
-|                                | OpenAI API                            | Proficient   |
-|                                | PyTorch / TensorFlow                  | Learning     |
-|                                | Scikit-learn                          | Learning     |
-| **AI: Concepts & Techniques**  | LLM App Development                   | Learning     |
-|                                | Prompt Engineering                    | Proficient   |
-|                                | RAG                                   | Learning     |
-|                                | Computer Vision (OpenCV)              | Learning     |
-| **Automation & RPA**           | Python-based Automation               | Expert       |
-|                                | Automation Anywhere 360               | Expert       |
-|                                | UiPath                                | Proficient   |
-|                                | Robocorp (RPA Framework)              | Proficient   |
-|                                | Power Platform (Power Automate, Power | Proficient   |
-|                                | Selenium / Playwright / BeautifulSoup | Proficient   |
-| **Development & DevOps**       | Git / GitHub / Azure Repos            | Proficient   |
-|                                | REST APIs                             | Proficient   |
-|                                | Azure DevOps / Jira                   | Proficient   |
-|                                | Docker / Kubernetes                   | Learning     |
-| **Process & Project Mgmt.**    | Lean Management (Green Belt)          | Expert       |
-|                                | AgilePM / Scrum                       | Proficient   |
-|                                | BPMN                                  | Proficient   |
-
 ### My Flagship Projects
 
 | Project                                                                       | Description                                                                                              | Technologies                            |
